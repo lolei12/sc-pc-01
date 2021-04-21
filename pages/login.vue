@@ -68,6 +68,7 @@
 //import sysConfig from '@/plugins/sysConfig.js'
 import {mapMutations} from 'vuex'
 export default {
+	
      layout:'loginAndRegist',//布局文件
      data(){
          return{

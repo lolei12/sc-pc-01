@@ -981,6 +981,7 @@
 
 <script>
 export default {
+   layout:'front_common',
   data() {
     return {
       skuid: this.$route.params.id,

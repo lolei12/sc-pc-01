@@ -41,8 +41,8 @@ export default {
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
   
-  baseURL:'http://127.0.0.1:7300/mock/60482825fe9fc0025488a5cc/sxds',//接口的URL---zuul接口的地址
-  // baseURL:'http://localhost:9000/v1'
+  //baseURL:'http://127.0.0.1:7300/mock/60482825fe9fc0025488a5cc/sxds',//接口的URL---zuul接口的地址
+   baseURL:'http://localhost:9000/v1'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

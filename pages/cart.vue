@@ -71,6 +71,7 @@
 
 <script>
 export default {
+     layout:'front_common',
      head: {
    
     link: [

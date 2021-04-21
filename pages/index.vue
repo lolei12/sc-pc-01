@@ -642,7 +642,7 @@
 import $ from 'jquery'
 export default {
   //layout:'loginAndRegist',//实际上首页不应该用这个布局文件
-  layout:'default',//这句也可以省略，默认用default布局
+  layout:'front_common',
   head:{
     script:[
      {type:'text/javascript',src:'/js/jquery-1.8.3.min.js'},
